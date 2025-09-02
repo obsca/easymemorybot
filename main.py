@@ -4,7 +4,7 @@ from aiogram.types import Message
 from aiogram.filters import Command
 import logging
 
-API_TOKEN = "8224752438:AAHL86UFx39gAUtr5ucLyn4vgN6P_LjdRwI"
+API_TOKEN = "BOT_ID"
 
 logging.basicConfig(level=logging.INFO)
 
